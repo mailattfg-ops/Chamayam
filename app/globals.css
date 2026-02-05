@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 247 245 242; /* #F7F5F2 Ivory */
+    --foreground: 15 15 20; /* #0F0F14 Charcoal Black */
+  }
+
+  body {
+    @apply bg-ivory text-secondary antialiased;
+  }
+}
+
+@layer utilities {
+  .glass-overlay {
+    @apply bg-white/10 backdrop-blur-md border border-white/20;
+  }
+}
