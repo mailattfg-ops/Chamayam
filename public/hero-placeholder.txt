@@ -1,2 +1,0 @@
-// This is a placeholder file to indicate the image should be moved.
-// I will use run_command to move the artifact to the public folder.
