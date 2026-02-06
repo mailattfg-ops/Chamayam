@@ -68,7 +68,7 @@ export function Hero() {
                     <div className="relative h-full w-full overflow-hidden shadow-[0_0_100px_rgba(0,0,0,0.5)]">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
-                            src="/Images/hero_magenta_silk.png"
+                            src="/images/hero_magenta_silk.png"
                             alt="Luxury Mango Silk Saree"
                             className="object-cover w-full h-full brightness-90 hover:brightness-100 transition-all duration-[3s] scale-105 hover:scale-100"
                         />
@@ -105,7 +105,7 @@ export function Hero() {
             <div className="absolute inset-0 z-0 lg:hidden opacity-30">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                    src="/Images/hero_magenta_silk.png"
+                    src="/images/hero_magenta_silk.png"
                     alt="Luxury Mango Silk Saree"
                     className="object-cover w-full h-full"
                 />

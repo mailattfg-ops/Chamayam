@@ -13,7 +13,7 @@ export default function AboutPage() {
                 kicker="OUR LEGACY"
                 title={"Weaving Stories.\nPreserving Soul."}
                 description="Chamayam Textiles began as a small initiative to support a single weaving family in Kerala. Today, it is a movement—a bridge between the ancient looms of India and the modern wardrobe."
-                imageSrc="/Images/hero_collections.png" // Reusing available high-res image
+                imageSrc="/images/hero_collections.png" // Reusing available high-res image
                 badgeText="HERITAGE SINCE 1920 • AUTHENTIC •"
             />
 

@@ -14,7 +14,7 @@ export function PageHero({
     kicker,
     title,
     description,
-    imageSrc = "/Images/hero_magenta_silk.png",
+    imageSrc = "/images/hero_magenta_silk.png",
     badgeText = "Premium Silk • Handwoven • Authentic •"
 }: PageHeroProps) {
     return (
